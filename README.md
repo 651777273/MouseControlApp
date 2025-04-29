@@ -19,7 +19,6 @@
 ## 🚀 安装步骤
 1. 克隆项目到本地：
 git clone https://github.com/651777273/MouseControlApp
-cd MouseControlApp
 2.	创建并激活虚拟环境：
 conda create -n mousecontrol python=3.11
 conda activate mousecontrol
